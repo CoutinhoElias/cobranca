@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cobranca
+POSTGRES_USER=vmxbuSoohGRyeZNKYNugbDkLOVjvxLKf
+POSTGRES_PASSWORD=kc84MWxwvrYXqgCqhXZuSWyxpB0pUOFTffOyvTpAUqwODoaHZexrnAweLfRMFM6I
